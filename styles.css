@@ -99,21 +99,7 @@ a {
   border-bottom: 4px solid var(--gold);
 }
 
-.logo-img,
-
-  display: grid;
-  place-items: center;
-  flex: 0 0 auto;
-  width: 58px;
-  height: 58px;
-  border: 2px solid var(--gold);
-  border-radius: 50%;
-  background: #ffffff;
-  color: var(--main-red);
-  font-family: "Times New Roman", serif;
-  font-size: 28px;
-  font-weight: 700;
-}
+.
 
 .header-title {
   margin: 0;
