@@ -61,8 +61,8 @@ window.meetingData = {
       title: "Nghị quyết nhiệm vụ phát triển kinh tế - xã hội",
       content: "Thông qua nhóm chỉ tiêu, nhiệm vụ và giải pháp trọng tâm 6 tháng cuối năm 2026.",
       open: true,
-      yes: 5,
-      no: 1,
+      yes: 24,
+      no: 0,
       other: 0
     }
   ]
