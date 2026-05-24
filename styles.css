@@ -423,7 +423,7 @@ a {
 
 .tv-header {
   display: grid;
-  grid-template-columns: 90px 1fr 260px;
+  grid-template-columns: 1fr 260px;
   align-items: center;
   gap: 20px;
   padding: 16px 28px;
@@ -434,6 +434,10 @@ a {
   box-shadow: var(--shadow);
 }
 
+.tv-logo {
+  width: 74px;
+  height: 74px;
+  font-size: 34px;
 }
 
 .tv-title {
@@ -674,7 +678,7 @@ a {
   }
 
   .tv-header {
-    grid-template-columns: 70px 1fr;
+    grid-template-columns: 1fr;
   }
 
   .tv-clock {
@@ -695,6 +699,10 @@ a {
     gap: 10px;
   }
 
+  .logo-img {
+    width: 42px;
+    height: 42px;
+    font-size: 20px;
   }
 
   .header-title {
