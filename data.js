@@ -8,7 +8,7 @@ window.meetingData = {
   },
 
   delegates: [
-    { id: "DB001", password: "123456", name: "Ngô Trung Hiếu", position: "Chủ tịch HĐND xã", unit: "Thường trực HĐND", role: "Chủ tọa", level: 1, present: true },
+    { id: "DB001", password: "123456", name: "Ngô Trung Hiếu", position: "Chủ tịch HĐND xã", unit: "Thường trực HĐND", role: "Chủ tọa", level: 1, present: true, avatar: "images/db001.jpg" },
     { id: "DB002", password: "123456", name: "Nguyễn Thị Trúc", position: "Phó Chủ tịch HĐND xã", unit: "Thường trực HĐND", role: "Chủ tọa", level: 2, present: true },
     { id: "DB003", password: "123456", name: "Nguyễn Hữu Thuận", position: "Trưởng ban Kinh tế - Ngân sách", unit: "Ban HĐND", role: "Đại biểu", level: 3, present: true },
     { id: "DB004", password: "123456", name: "Nguyễn Thị Tuyết Mai", position: "Trưởng ban Văn hóa - Xã hội", unit: "Ban HĐND", role: "Đại biểu", level: 3, present: true },
