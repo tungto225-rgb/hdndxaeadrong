@@ -423,7 +423,7 @@ a {
 
 .tv-header {
   display: grid;
-  grid-template-columns: 1fr 260px;
+  grid-template-columns: 90px 1fr 260px;
   align-items: center;
   gap: 20px;
   padding: 16px 28px;
@@ -678,7 +678,7 @@ a {
   }
 
   .tv-header {
-    grid-template-columns: 1fr;
+    grid-template-columns: 70px 1fr;
   }
 
   .tv-clock {
