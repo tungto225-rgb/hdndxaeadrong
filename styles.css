@@ -100,7 +100,7 @@ a {
 }
 
 .logo-img,
-.tv-logo {
+
   display: grid;
   place-items: center;
   flex: 0 0 auto;
