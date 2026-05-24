@@ -10,9 +10,9 @@ window.meetingData = {
   delegates: [
     { id: "DB001", password: "123456", name: "Ngô Trung Hiếu", position: "Chủ tịch HĐND xã", unit: "Thường trực HĐND", role: "Chủ tọa", level: 1, present: true },
     { id: "DB002", password: "123456", name: "Nguyễn Thị Trúc", position: "Phó Chủ tịch HĐND xã", unit: "Thường trực HĐND", role: "Chủ tọa", level: 2, present: true },
-    { id: "DB003", password: "123456", name: "Nguyễn Hữu Thuận", position: "Trưởng ban Kinh tế - Ngân sách", unit: "Ban HĐND", role: "Đại biểu", level: 3, present: false },
+    { id: "DB003", password: "123456", name: "Nguyễn Hữu Thuận", position: "Trưởng ban Kinh tế - Ngân sách", unit: "Ban HĐND", role: "Đại biểu", level: 3, present: true },
     { id: "DB004", password: "123456", name: "Nguyễn Thị Tuyết Mai", position: "Trưởng ban Văn hóa - Xã hội", unit: "Ban HĐND", role: "Đại biểu", level: 3, present: true },
-    { id: "DB005", password: "123456", name: "Nguyễn Minh Tuấn", position: "Phó Ban Kinh tế - Ngân sách", unit: "Ban HĐND", role: "Đại biểu", level: 4, present: false },
+    { id: "DB005", password: "123456", name: "Nguyễn Minh Tuấn", position: "Phó Ban Kinh tế - Ngân sách", unit: "Ban HĐND", role: "Đại biểu", level: 4, present: true },
     { id: "DB006", password: "123456", name: "Phan Thị Bình", position: "Phó Ban Văn hóa - Xã hội", unit: "Ban HĐND", role: "Đại biểu", level: 4, present: true },
     { id: "DB007", password: "123456", name: "La Thành Tâm", position: "Phó Ban Văn hóa - Xã hội (kiêm nhiệm)", unit: "Ban HĐND", role: "Đại biểu", level: 4, present: true },
  { id: "DB008", password: "123456", name: "H Lệ Kriêng", position: "Phó Ban Kinh tế - Ngân sách (kiêm nhiệm)", unit: "Ban HĐND", role: "Đại biểu", level: 4, present: true },
