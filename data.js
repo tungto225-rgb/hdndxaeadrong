@@ -8,8 +8,8 @@ window.meetingData = {
   },
 
   delegates: [
-    { id: "DB001", password: "123456", name: "Ngô Trung Hiếu", position: "Chủ tịch HĐND xã", unit: "Thường trực HĐND", role: "Chủ tọa", level: 1, present: true, avatar: "images/db001.jpg" },
-    { id: "DB002", password: "123456", name: "Nguyễn Thị Trúc", position: "Phó Chủ tịch HĐND xã", unit: "Thường trực HĐND", role: "Chủ tọa", level: 2, present: true },
+    { id: "DB001", password: "123456", name: "Ngô Trung Hiếu", position: "Chủ tịch HĐND xã", unit: "Thường trực HĐND", role: "Chủ tọa", level: 1, present: true, avatar: "" },
+    { id: "DB002", password: "123456", name: "Nguyễn Thị Trúc", position: "Phó Chủ tịch HĐND xã", unit: "Thường trực HĐND", role: "Chủ tọa", level: 2, present: true, avatar: "" },
     { id: "DB003", password: "123456", name: "Nguyễn Hữu Thuận", position: "Trưởng ban Kinh tế - Ngân sách", unit: "Ban HĐND", role: "Đại biểu", level: 3, present: true },
     { id: "DB004", password: "123456", name: "Nguyễn Thị Tuyết Mai", position: "Trưởng ban Văn hóa - Xã hội", unit: "Ban HĐND", role: "Đại biểu", level: 3, present: true },
     { id: "DB005", password: "123456", name: "Nguyễn Minh Tuấn", position: "Phó Ban Kinh tế - Ngân sách", unit: "Ban HĐND", role: "Đại biểu", level: 4, present: true },
@@ -61,8 +61,8 @@ window.meetingData = {
       title: "Nghị quyết nhiệm vụ phát triển kinh tế - xã hội",
       content: "Thông qua nhóm chỉ tiêu, nhiệm vụ và giải pháp trọng tâm 6 tháng cuối năm 2026.",
       open: true,
-      yes: 24,
-      no: 0,
+      yes: 5,
+      no: 1,
       other: 0
     }
   ]
