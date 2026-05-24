@@ -304,7 +304,7 @@ function renderTv() {
   app.innerHTML = `
     <div class="tv-wrapper">
       <header class="tv-header">
-        <div class=""</div>
+        <div class="tv-logo">QH</div>
         <div class="tv-title">
           <h1>${config.systemName}</h1>
           <h2>${config.meetingName}</h2>
