@@ -98,6 +98,23 @@ a {
   background: linear-gradient(135deg, var(--dark-red), var(--main-red));
   border-bottom: 4px solid var(--gold);
 }
+
+.logo-img,
+.tv-logo {
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  width: 58px;
+  height: 58px;
+  border: 2px solid var(--gold);
+  border-radius: 50%;
+  background: #ffffff;
+  color: var(--main-red);
+  font-family: "Times New Roman", serif;
+  font-size: 28px;
+  font-weight: 700;
+}
+
 .header-title {
   margin: 0;
   font-size: 21px;
@@ -417,10 +434,6 @@ a {
   box-shadow: var(--shadow);
 }
 
-.tv-logo {
-  width: 74px;
-  height: 74px;
-  font-size: 34px;
 }
 
 .tv-title {
