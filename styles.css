@@ -98,9 +98,6 @@ a {
   background: linear-gradient(135deg, var(--dark-red), var(--main-red));
   border-bottom: 4px solid var(--gold);
 }
-
-.
-
 .header-title {
   margin: 0;
   font-size: 21px;
